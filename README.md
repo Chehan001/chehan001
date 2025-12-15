@@ -1,5 +1,5 @@
                                                       𝓗𝓲, 𝓘'𝓶 𝓒𝓱𝓮𝓱𝓪𝓷 𝓛𝓪𝓼𝓲𝓷𝓭𝓾 
-                                                      ![about_me](https://github.com/user-attachments/assets/13b4b23f-d42b-47a2-94d3-5dbd9f983320)
+                                                      
 
 
 <!--
