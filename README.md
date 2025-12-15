@@ -1,4 +1,6 @@
                                                       𝓗𝓲, 𝓘'𝓶 𝓒𝓱𝓮𝓱𝓪𝓷 𝓛𝓪𝓼𝓲𝓷𝓭𝓾 
+                                                      ![about_me](https://github.com/user-attachments/assets/13b4b23f-d42b-47a2-94d3-5dbd9f983320)
+
 
 <!--
 **Chehan001/chehan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
