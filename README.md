@@ -42,6 +42,31 @@
 </tr>
 </table>
 
+📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chehan001&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Chehan001&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chehan001&theme=github_dark" alt="Profile Summary" width="98%" />
+</p>
+
+<details>
+<summary>📈 More GitHub Analytics</summary>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Chehan001&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chehan001&theme=github_dark" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chehan001&theme=github_dark" width="49%" alt="Repos per Language" />
+</p>
+
+</details>
+
 
 
 <div align="center">
