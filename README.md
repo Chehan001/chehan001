@@ -1,536 +1,189 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chehan Lasindu - Portfolio</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%);
-            color: #e0e0e0;
-            overflow-x: hidden;
-        }
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=2,6,12,17,22&text=Chehan%20Lasindu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Creative%20Designer&descSize=18&descAlignY=55" alt="Header"/>
+</div>
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=850&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Data+Scientist+%F0%9F%93%8A;Creative+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%92%A1;Innovation+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-        /* Animated Header */
-        .header {
-            text-align: center;
-            padding: 60px 20px;
-            background: linear-gradient(135deg, #134e4a 0%, #065f46 50%, #047857 100%);
-            border-radius: 20px;
-            margin-bottom: 40px;
-            position: relative;
-            overflow: hidden;
-            box-shadow: 0 10px 40px rgba(16, 185, 129, 0.3);
-            animation: slideDown 1s ease-out;
-        }
+<br/>
 
-        @keyframes slideDown {
-            from {
-                opacity: 0;
-                transform: translateY(-50px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(16, 185, 129, 0.1) 0%, transparent 70%);
-            animation: rotate 20s linear infinite;
-        }
+<br/>
 
-        @keyframes rotate {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-        .header h1 {
-            font-size: 3.5rem;
-            color: #10b981;
-            text-shadow: 0 0 20px rgba(16, 185, 129, 0.5);
-            margin-bottom: 10px;
-            position: relative;
-            z-index: 1;
-            animation: glow 2s ease-in-out infinite;
-        }
+<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-        @keyframes glow {
-            0%, 100% { text-shadow: 0 0 20px rgba(16, 185, 129, 0.5); }
-            50% { text-shadow: 0 0 30px rgba(16, 185, 129, 0.8), 0 0 40px rgba(16, 185, 129, 0.6); }
-        }
+### 🎓 Background
 
-        .header .subtitle {
-            font-size: 1.5rem;
-            color: #6ee7b7;
-            position: relative;
-            z-index: 1;
-        }
+I'm an undergraduate at **Sabaragamuwa University of Sri Lanka**, pursuing a **BSc (Hons) in Computer Science & Technology**.
 
-        /* Typing Animation */
-        .typing-container {
-            text-align: center;
-            margin: 30px 0;
-            height: 60px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
+🌱 Passionate about transforming data into actionable insights and building innovative solutions.
 
-        .typing-text {
-            font-size: 1.8rem;
-            font-weight: 600;
-            color: #10b981;
-            border-right: 3px solid #10b981;
-            padding-right: 5px;
-            animation: blink 0.7s infinite;
-        }
+💡 Constantly exploring new technologies and pushing the boundaries of what's possible!
 
-        @keyframes blink {
-            0%, 50% { border-color: #10b981; }
-            51%, 100% { border-color: transparent; }
-        }
+🎯 Believer in clean code, elegant solutions, and impactful design.
 
-        /* About Section */
-        .about-section {
-            display: grid;
-            grid-template-columns: 1fr 380px;
-            gap: 40px;
-            margin-bottom: 50px;
-            animation: fadeIn 1s ease-out 0.3s both;
-        }
+<br/>
 
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+### 🚀 What I Do
 
-        .about-content {
-            background: rgba(31, 41, 55, 0.8);
-            padding: 40px;
-            border-radius: 15px;
-            border: 1px solid rgba(16, 185, 129, 0.3);
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-            backdrop-filter: blur(10px);
-            transition: all 0.3s ease;
-        }
+```javascript
+const chehan = {
+    location: "Sri Lanka 🇱🇰",
+    education: "BSc Computer Science & Technology",
+    currentFocus: ["Machine Learning", "Full-Stack Dev", "UI/UX"],
+    funFact: "I turn coffee into code ☕️ → 💻"
+};
+```
 
-        .about-content:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 40px rgba(16, 185, 129, 0.4);
-            border-color: rgba(16, 185, 129, 0.6);
-        }
+<br clear="right"/>
 
-        .about-image {
-            text-align: center;
-            animation: float 3s ease-in-out infinite;
-        }
+---
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-20px); }
-        }
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 
-        .about-image img {
-            max-width: 100%;
-            border-radius: 15px;
-            box-shadow: 0 8px 32px rgba(16, 185, 129, 0.3);
-        }
+## 💼 Expertise
 
-        h2 {
-            font-size: 2rem;
-            color: #10b981;
-            margin-bottom: 20px;
-            position: relative;
-            display: inline-block;
-        }
+<table>
+<tr>
+<td width="50%" valign="top">
 
-        h2::after {
-            content: '';
-            position: absolute;
-            bottom: -5px;
-            left: 0;
-            width: 0;
-            height: 3px;
-            background: linear-gradient(90deg, #10b981, #34d399);
-            animation: expand 1s ease-out 0.5s forwards;
-        }
+### 🔬 Data Science & Analytics
 
-        @keyframes expand {
-            to { width: 100%; }
-        }
+<div align="left">
 
-        h3 {
-            color: #6ee7b7;
-            margin: 25px 0 15px;
-            font-size: 1.4rem;
-        }
-
-        /* Skills Cards */
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
-            margin: 40px 0;
-        }
-
-        .skill-card {
-            background: rgba(31, 41, 55, 0.8);
-            padding: 30px;
-            border-radius: 15px;
-            border: 1px solid rgba(16, 185, 129, 0.3);
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-            backdrop-filter: blur(10px);
-            transition: all 0.4s ease;
-            position: relative;
-            overflow: hidden;
-            animation: fadeIn 1s ease-out;
-        }
-
-        .skill-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(16, 185, 129, 0.2), transparent);
-            transition: left 0.6s ease;
-        }
-
-        .skill-card:hover::before {
-            left: 100%;
-        }
-
-        .skill-card:hover {
-            transform: translateY(-10px) scale(1.02);
-            box-shadow: 0 15px 50px rgba(16, 185, 129, 0.5);
-            border-color: rgba(16, 185, 129, 0.8);
-        }
-
-        .skill-card h3 {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-top: 0;
-        }
-
-        .skill-icon {
-            font-size: 1.8rem;
-            animation: pulse 2s ease-in-out infinite;
-        }
-
-        @keyframes pulse {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.1); }
-        }
-
-        ul {
-            list-style: none;
-            margin: 15px 0;
-        }
-
-        li {
-            padding: 10px 0;
-            padding-left: 25px;
-            position: relative;
-            transition: all 0.3s ease;
-        }
-
-        li:hover {
-            padding-left: 35px;
-            color: #6ee7b7;
-        }
-
-        li::before {
-            content: '▹';
-            position: absolute;
-            left: 0;
-            color: #10b981;
-            font-size: 1.2rem;
-            transition: all 0.3s ease;
-        }
-
-        li:hover::before {
-            transform: translateX(5px);
-        }
-
-        /* Code Block */
-        .code-block {
-            background: #1a1a2e;
-            padding: 20px;
-            border-radius: 10px;
-            margin: 20px 0;
-            border-left: 4px solid #10b981;
-            font-family: 'Courier New', monospace;
-            color: #6ee7b7;
-            box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.5);
-            overflow-x: auto;
-            animation: slideIn 0.8s ease-out;
-        }
-
-        @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateX(-50px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
-
-        /* Footer */
-        .footer {
-            text-align: center;
-            padding: 40px;
-            margin-top: 60px;
-            background: rgba(31, 41, 55, 0.8);
-            border-radius: 15px;
-            border: 1px solid rgba(16, 185, 129, 0.3);
-            animation: fadeIn 1s ease-out 0.6s both;
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 20px;
-        }
-
-        .social-btn {
-            padding: 12px 30px;
-            background: linear-gradient(135deg, #065f46, #047857);
-            color: white;
-            text-decoration: none;
-            border-radius: 25px;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
-        }
-
-        .social-btn:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 6px 25px rgba(16, 185, 129, 0.5);
-            background: linear-gradient(135deg, #047857, #10b981);
-        }
-
-        /* Particles Effect */
-        .particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-            z-index: -1;
-        }
-
-        .particle {
-            position: absolute;
-            background: rgba(16, 185, 129, 0.3);
-            border-radius: 50%;
-            animation: rise 15s infinite ease-in;
-        }
-
-        @keyframes rise {
-            0% {
-                bottom: -10%;
-                opacity: 0;
-            }
-            50% {
-                opacity: 1;
-            }
-            100% {
-                bottom: 110%;
-                opacity: 0;
-            }
-        }
-
-        @media (max-width: 768px) {
-            .about-section {
-                grid-template-columns: 1fr;
-            }
-            
-            .header h1 {
-                font-size: 2.5rem;
-            }
-            
-            .typing-text {
-                font-size: 1.3rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <!-- Particle Background -->
-    <div class="particles" id="particles"></div>
-
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <h1>Chehan Lasindu</h1>
-            <p class="subtitle">Software Engineer | Data Scientist</p>
-        </div>
-
-        <!-- Typing Animation -->
-        <div class="typing-container">
-            <div class="typing-text" id="typingText"></div>
-        </div>
-
-        <!-- About Section -->
-        <div class="about-section">
-            <div class="about-content">
-                <h2>👨‍💻 About Me</h2>
-                
-                <h3>🎓 Background</h3>
-                <p>I'm an undergraduate at <strong>Sabar aguwa University of Sri Lanka</strong>, pursuing a <strong>BSc (Hons) in Computer Science & Technology</strong>.</p>
-                <p style="margin-top: 15px;">🌱 Passionate about transforming data into actionable insights and building innovative solutions that make a difference.</p>
-                <p style="margin-top: 10px;">🎯 Always learning, always growing, always coding!</p>
-            </div>
-            
-            <div class="about-image">
-                <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding Animation">
-            </div>
-        </div>
-
-        <!-- Skills Section -->
-        <h2 style="text-align: center; font-size: 2.5rem; margin: 60px 0 40px;">💡 Expertise</h2>
-        
-        <div class="skills-grid">
-            <!-- Data Science Card -->
-            <div class="skill-card">
-                <h3><span class="skill-icon">🔬</span> Data Science & Analytics</h3>
-                <div class="code-block">
-skills = {<br>
-&nbsp;&nbsp;"ML": ["Scikit-learn", "TensorFlow"],<br>
-&nbsp;&nbsp;"Analysis": ["Pandas", "NumPy"],<br>
-&nbsp;&nbsp;"Viz": ["Matplotlib", "Seaborn"],<br>
-&nbsp;&nbsp;"Tools": ["Jupyter", "Streamlit"]<br>
+```python
+skills = {
+    "ML": ["Scikit-learn", "Model Training"],
+    "Analysis": ["Pandas", "NumPy"],
+    "Visualization": ["Matplotlib", "Seaborn"],
+    "Tools": ["Jupyter", "Streamlit", "SQL"]
 }
-                </div>
-                <ul>
-                    <li>Machine Learning & Model Training</li>
-                    <li>Statistical Analysis & Data Mining</li>
-                    <li>Interactive Visualizations</li>
-                </ul>
-            </div>
+```
 
-            <!-- Full-Stack Card -->
-            <div class="skill-card">
-                <h3><span class="skill-icon">💻</span> Full-Stack Development</h3>
-                <p><strong>Frontend Magic ✨</strong></p>
-                <ul>
-                    <li>ReactJS & React Native</li>
-                    <li>Modern UI/UX Design</li>
-                    <li>Responsive Applications</li>
-                </ul>
-                <p style="margin-top: 20px;"><strong>Backend Power 🚀</strong></p>
-                <ul>
-                    <li>NodeJS | ExpressJS</li>
-                    <li>Java | JavaFX | C | C#</li>
-                    <li>Database Management</li>
-                    <li>ElectronJS Applications</li>
-                </ul>
-            </div>
+**What I Build:**
+- 📊 Predictive Models & ML Algorithms
+- 📈 Interactive Data Visualizations
+- 🔍 Data Mining & Statistical Analysis
+- 🎯 Business Intelligence Dashboards
 
-            <!-- Creative Design Card -->
-            <div class="skill-card">
-                <h3><span class="skill-icon">🎨</span> Creative Design</h3>
-                <ul>
-                    <li>UI/UX Design & Prototyping</li>
-                    <li>Video Editing (Part-time)</li>
-                    <li>Graphic Design & Branding</li>
-                    <li>Motion Graphics</li>
-                </ul>
-                <p style="margin-top: 20px; color: #6ee7b7; font-style: italic;">Combining technical skills with creative vision to deliver exceptional user experiences.</p>
-            </div>
-        </div>
+</div>
 
-        <!-- Footer -->
-        <div class="footer">
-            <h2>💚 Let's Connect and Build Something Amazing!</h2>
-            <div class="social-links">
-                <a href="#" class="social-btn">GitHub</a>
-                <a href="#" class="social-btn">LinkedIn</a>
-                <a href="#" class="social-btn">Portfolio</a>
-            </div>
-        </div>
-    </div>
+</td>
+<td width="50%" valign="top">
 
-    <script>
-        // Typing Animation
-        const phrases = [
-            "Full-Stack Developer 🚀",
-            "Data Scientist 📊",
-            "Creative Designer 🎨",
-            "Problem Solver 💡"
-        ];
-        
-        let phraseIndex = 0;
-        let charIndex = 0;
-        let isDeleting = false;
-        const typingText = document.getElementById('typingText');
-        
-        function type() {
-            const currentPhrase = phrases[phraseIndex];
-            
-            if (isDeleting) {
-                typingText.textContent = currentPhrase.substring(0, charIndex - 1);
-                charIndex--;
-            } else {
-                typingText.textContent = currentPhrase.substring(0, charIndex + 1);
-                charIndex++;
-            }
-            
-            if (!isDeleting && charIndex === currentPhrase.length) {
-                setTimeout(() => isDeleting = true, 2000);
-            } else if (isDeleting && charIndex === 0) {
-                isDeleting = false;
-                phraseIndex = (phraseIndex + 1) % phrases.length;
-            }
-            
-            const speed = isDeleting ? 50 : 100;
-            setTimeout(type, speed);
-        }
-        
-        type();
-        
-        // Create Particles
-        const particlesContainer = document.getElementById('particles');
-        for (let i = 0; i < 30; i++) {
-            const particle = document.createElement('div');
-            particle.className = 'particle';
-            particle.style.left = Math.random() * 100 + '%';
-            particle.style.width = particle.style.height = Math.random() * 10 + 5 + 'px';
-            particle.style.animationDelay = Math.random() * 15 + 's';
-            particle.style.animationDuration = Math.random() * 10 + 10 + 's';
-            particlesContainer.appendChild(particle);
-        }
-    </script>
-</body>
-</html>
+### 💻 Full-Stack Development
+
+**Frontend Magic** ✨
+- ⚛️ ReactJS & React Native
+- 🎨 Modern UI/UX Implementation
+- 📱 Responsive Web Applications
+- 🖼️ Component-Based Architecture
+
+**Backend Power** 🚀
+- 🟢 NodeJS | ExpressJS
+- ☕ Java | JavaFX
+- 💾 Database Design & Management
+- ⚡ ElectronJS Desktop Apps
+- 🔧 C | C# | OOP Principles
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🎨 Creative Design
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
+
+</div>
+
+<div align="center">
+
+| 🎭 UI/UX Design | 🎬 Video Editing | 🖌️ Graphic Design |
+|:---:|:---:|:---:|
+| Figma, Adobe XD | Part-time Editor | Branding & Visual Identity |
+| User Research | Motion Graphics | Logo Design |
+| Prototyping | Color Grading | Digital Illustrations |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" width="48%" />
+</div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3748&color=10B981)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d3748&color=10B981)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2d3748&color=10B981)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=10B981)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&borderColor=10b981" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+
+**"Building the future, one commit at a time"** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,6,12,17,22&section=footer" alt="Footer"/>
+
+</div>
+
