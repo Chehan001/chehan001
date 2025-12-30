@@ -50,44 +50,7 @@ I'm an undergraduate at **Sabaragamuwa University of Sri Lanka**, pursuing a **B
 </tr>
 </table>
 
----
 
-<div align="center">
-
-### 🎨 Creative Design
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80">
-
-</div>
-
-<div align="center">
-
-| 🎭 UI/UX Design | 🎬 Video Editing | 🖌️ Graphic Design |
-|:---:|:---:|:---:|
-| Figma, Adobe XD | Part-time Editor | Branding & Visual Identity |
-| User Research | Motion Graphics | Logo Design |
-| Prototyping | Color Grading | Digital Illustrations |
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia&hide_border=true&background=0d1117&ring=10b981&fire=10b981&currStreakLabel=10b981" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" width="48%" />
-</div>
-
----
 
 <div align="center">
 
