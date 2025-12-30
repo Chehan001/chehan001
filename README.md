@@ -31,54 +31,10 @@ I'm an undergraduate at **Sabaragamuwa University of Sri Lanka**, pursuing a **B
 
 <br/>
 
-### 🚀 What I Do
-
-```javascript
-const chehan = {
-    location: "Sri Lanka 🇱🇰",
-    education: "BSc Computer Science & Technology",
-    currentFocus: ["Machine Learning", "Full-Stack Dev", "UI/UX"],
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
-```
-
-<br clear="right"/>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
-
-## 💼 Expertise
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔬 Data Science & Analytics
-
-<div align="left">
-
-```python
-skills = {
-    "ML": ["Scikit-learn", "Model Training"],
-    "Analysis": ["Pandas", "NumPy"],
-    "Visualization": ["Matplotlib", "Seaborn"],
-    "Tools": ["Jupyter", "Streamlit", "SQL"]
-}
-```
-
-**What I Build:**
-- 📊 Predictive Models & ML Algorithms
-- 📈 Interactive Data Visualizations
-- 🔍 Data Mining & Statistical Analysis
-- 🎯 Business Intelligence Dashboards
-
-</div>
-
-</td>
-<td width="50%" valign="top">
 
 ### 💻 Full-Stack Development
 
@@ -146,44 +102,6 @@ skills = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d3748&color=10B981)](https://linkedin.com/in/YOUR_PROFILE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2d3748&color=10B981)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=10B981)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&borderColor=10b981" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
-
-**"Building the future, one commit at a time"** 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,6,12,17,22&section=footer" alt="Footer"/>
 
 </div>
 
