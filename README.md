@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=2,6,12,17,22&text=Chehan%20Lasindu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Creative%20Designer&descSize=18&descAlignY=55" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=2,6,12,17,22&text=Chehan%20Lasindu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7&descSize=18&descAlignY=55" alt="Header"/>
 </div>
 
 <div align="center">
@@ -84,8 +84,6 @@
 <div align="center">
 
 ### 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3748&color=10B981)](https://github.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d3748&color=10B981)](https://linkedin.com/in/YOUR_PROFILE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2d3748&color=10B981)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=10B981)](mailto:your.email@example.com)
