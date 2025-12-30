@@ -23,24 +23,42 @@
 
 <br/>
 
-### 💻 Full-Stack Development
+## 🛠️ Tech Stack
 
-**Frontend Magic** ✨
-- ⚛️ ReactJS & React Native
-- 🎨 Modern UI/UX Implementation
-- 📱 Responsive Web Applications
-- 🖼️ Component-Based Architecture
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,c&perline=8" />
+</p>
 
-**Backend Power** 🚀
-- 🟢 NodeJS | ExpressJS
-- ☕ Java | JavaFX
-- 💾 Database Design & Management
-- ⚡ ElectronJS Desktop Apps
-- 🔧 C | C# | OOP Principles
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,materialui&perline=8" />
+</p>
 
-</td>
-</tr>
-</table>
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,flask&perline=5" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,gcp&perline=5" />
+</p>
+
+### 🔧 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm,docker&perline=8" />
+</p>
+
+### 📊 Data Science & ML
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
 
 📊 GitHub Statistics
 
