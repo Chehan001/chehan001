@@ -19,15 +19,7 @@
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-### 🎓 Background
-
-I'm an undergraduate at **Sabaragamuwa University of Sri Lanka**, pursuing a **BSc (Hons) in Computer Science & Technology**.
-
-🌱 Passionate about transforming data into actionable insights and building innovative solutions.
-
-💡 Constantly exploring new technologies and pushing the boundaries of what's possible!
-
-🎯 Believer in clean code, elegant solutions, and impactful design.
+### I am an undergraduate student at Sabaragamuwa University of Sri Lanka, pursuing a BSc (Hons) in Computer Science & Technology under the Faculty of Applied Sciences. My passion lies in data science, where I continuously develop my skills in data analysis, machine learning, and intelligent solution development. I have hands-on experience with Python, Java, JavaFX, ReactJS, React Native, NodeJS, ExpressJS, ElectronJS, C, C#, and OOP concepts, along with strong expertise in data manipulation and visualization using Pandas, NumPy, Matplotlib, and Seaborn. I also work with SQL and Streamlit to build interactive applications. Currently, I am expanding my knowledge in full-stack development while also working part-time as a video editor and graphic designer. My ultimate goal is to become a data scientist, leveraging data to uncover insights and drive innovation through technology.
 
 <br/>
 
