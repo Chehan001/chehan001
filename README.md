@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=2,6,12,17,22&text=Chehan%20Lasindu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Scientist%20%7C%20Creative%20Designer&descSize=18&descAlignY=55" alt="Header"/>
 </div>
@@ -25,32 +24,32 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php,c&perline=8" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,tailwind,bootstrap,materialui&perline=8" />
 </p>
 
-### ⚙️ Backend Development
+###  Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,flask&perline=5" />
 </p>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,gcp&perline=5" />
 </p>
 
-### 🔧 Tools & Technologies
+###  Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,npm,docker&perline=8" />
 </p>
 
-### 📊 Data Science & ML
+###  Data Science & ML
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -59,14 +58,9 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
+<br/>
 
 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chehan001&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Chehan001&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chehan001&theme=github_dark" alt="Profile Summary" width="98%" />
 </p>
