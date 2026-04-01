@@ -85,9 +85,9 @@
 <div align="center">
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d3748&color=10B981)](https://linkedin.com/in/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2d3748&color=10B981)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=10B981)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2d3748&color=10B981)]([https://linkedin.com/in/YOUR_PROFILE](http://www.linkedin.com/in/chehan-lasindu-157785284))
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2d3748&color=10B981)]([https://your-portfolio.com](https://lemon-rock-01cb00200.2.azurestaticapps.net/))
+[![Medium](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=10B981)](https://medium.com/@mallikagecl2025)
 
 </div>
 <br>
